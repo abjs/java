@@ -1,5 +1,5 @@
 
-Offishl page https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+Official page https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
 
 <br/>
 
