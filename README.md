@@ -34,4 +34,4 @@ Downlode Link https://www.oracle.com/java/technologies/javase-jdk15-downloads.ht
 # windows
 <br/>
 
-<img src="https://raw.githubusercontent.com/abjs/java/main/5.png" alt="stap 4"/>
+<img src="https://raw.githubusercontent.com/abjs/java/main/5.png" alt="stap 5"/>
