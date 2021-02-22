@@ -1,5 +1,14 @@
 
-Downlode Link https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+Offishl page https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+
+<br/>
+
+<h1>To Direct Download</h1>
+
+<h2>
+<a href="https://drive.google.com/file/d/1cTDk506jl4nDXEb64xZ_2ZhZ4CLalxc7/view?usp=sharing" >Java Downlode link</a>      
+</h2>
+<br/>
 
 # For  Linux 
 

@@ -25,6 +25,4 @@ else
     echo "Java files successfully copied"
 
 fi
-export JAVA_HOME=/usr/java/jdk-15.0.2;
-export PATH=${PATH}:${JAVA_HOME}/bin;
-echo "installation completed successfully"
+echo "installation completed successfully open new terminal for using java"
