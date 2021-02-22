@@ -5,7 +5,7 @@ FILERC=/home/$myvariable/.bashrc
 if [ -d "$FILE" ]; then
     echo ""
 else 
-    tar zxvf jdk64.tar.gz
+    tar zxvf jdk-15*
     echo "File extracted successfully"
 fi
 
